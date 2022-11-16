@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, Software Development**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.al-mosrof-mia](https://sites.google.com/diu.edu.bd/al-mosrof-mia)
+- 👨‍💻 All of my projects are available at [https://sites.al-mosrof-mia](https://sites.google.com/diu.edu.bd/al-mosrof-mia)
 
 - ⚡ Goal **One for all & All for one**
 
