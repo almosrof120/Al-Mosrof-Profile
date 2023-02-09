@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Al Mosrof Mia</h1>
-<h3 align="center">A passionate Software Engineer developer from Bangladesh</h3>
+<h3 align="center">A passionate Software Engineer Developer from Bangladesh</h3>
 <img align="right" src="https://miraculoussoft.com/wp-content/uploads/2022/03/best-PHP-Development-Services-new-york.gif" alt="welcome logo" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almosrof120&label=Profile%20views&color=0e75b6&style=flat" alt="almosrof120" /> </p>
 
