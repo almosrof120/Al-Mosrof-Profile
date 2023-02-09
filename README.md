@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sites.al-mosrof-mia](https://sites.google.com/diu.edu.bd/al-mosrof-mia)
 
-- ⚡ Goal **One for all & all for one**
+- ⚡ Goal **One for all & All for one**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
