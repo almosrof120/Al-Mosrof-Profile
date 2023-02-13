@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/almosrof120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="almosrof120" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/al-mosrof-shinul-a120/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/al-mosrof-shinul-a120/" height="30" width="40" /></a>
-<a href="https://fb.com/https://m.me/almosrof.mia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://m.me/almosrof.mia" height="30" width="40" /></a>
+<a href="https://www.facebook.com/almosrof.mia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://m.me/almosrof.mia" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/mosrof35_645" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mosrof35_645" height="30" width="40" /></a>
 <a href="https://discord.gg/V6FygVbU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="V6FygVbU" height="30" width="40" /></a>
 </p>
