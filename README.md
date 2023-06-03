@@ -3,11 +3,11 @@
 <img align="right" src="https://miraculoussoft.com/wp-content/uploads/2022/03/best-PHP-Development-Services-new-york.gif" alt="welcome logo" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almosrof120&label=Profile%20views&color=0e75b6&style=flat" alt="almosrof120" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Software Development, Python**
+- 🌱 I’m currently learning **Flutter, Software Development, Project Documentation**
 
 - 👨‍💻 All of my projects are available at [https://sites.al-mosrof-mia](https://sites.google.com/diu.edu.bd/al-mosrof-mia)
 
-- ⚡ Goal **All for one & One for all**
+- ⚡ Goal **One for all & all for one**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
