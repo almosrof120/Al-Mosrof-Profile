@@ -3,7 +3,7 @@
 <img align="right" src="https://miraculoussoft.com/wp-content/uploads/2022/03/best-PHP-Development-Services-new-york.gif" alt="welcome logo" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almosrof120&label=Profile%20views&color=0e75b6&style=flat" alt="almosrof120" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Software Development, Project Documentation**
+- 🌱 I’m currently learning **Flutter, Software Development, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://sites.al-mosrof-mia](https://sites.google.com/diu.edu.bd/al-mosrof-mia)
 
@@ -24,5 +24,4 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almosrof120&layout=compact" alt="almosrof120" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=almosrof120&" alt="almosrof120" /></p>
